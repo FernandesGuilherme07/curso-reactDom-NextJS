@@ -9,10 +9,10 @@ tecnologias ReactJS, NextJS, Styled-Components, Testes com Jest , GraphQL, Story
 
 
 #PARA RODAR LOCAL:
-*Faça um clone do repositorio em sua máquina.
-*Na pasta raiz do projeto intale as dependencias executando o comando $ npm i.
-*Para inicializar, execute na pasta raiz do projeto o comando $ npm start
-*Se preferir usar o yarn execute o comando $ yarn start
-*O projeto estará rodando em https://localhost:3000 
+#Faça um clone do repositorio em sua máquina.
+#Na pasta raiz do projeto intale as dependencias executando o comando $ npm i.
+#Para inicializar, execute na pasta raiz do projeto o comando $ npm start
+#Se preferir usar o yarn execute o comando $ yarn start
+#O projeto estará rodando em https://localhost:3000 
 
 
