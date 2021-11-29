@@ -12,7 +12,7 @@ https://github.com/FernandesGuilherme07/FetchAPI-Function.
 
 *Faça um clone do repositorio em sua máquina.
 
-*Na pasta raiz do projeto intale as dependencias executando o comando $ npm i.
+*Na pasta raiz do projeto instale as dependencias executando o comando $ npm i.
 
 *Para inicializar, execute na pasta raiz do projeto o comando $ npm start
 
