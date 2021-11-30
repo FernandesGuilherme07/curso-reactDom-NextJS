@@ -3,14 +3,17 @@ tecnologias ReactJS, NextJS, Styled-Components, Testes com Jest , GraphQL, Story
 
 #URL DOS PROJETOS: 
 
-#Projeto FetchApi com hooks:
-https://github.com/FernandesGuilherme07/FetchAPI-Function.
+Projeto FetchApi com hooks:
 
-#Introdução a testes com Jest-Dom: 
-https://github.com/FernandesGuilherme07/testes-com-jest
+*https://github.com/FernandesGuilherme07/FetchAPI-Function.
 
-#Intodução aos React Hooks:
-https://github.com/FernandesGuilherme07/intoducao-hooks
+Introdução a testes com Jest-Dom: 
+
+*https://github.com/FernandesGuilherme07/testes-com-jest
+
+Intodução aos React Hooks:
+
+*https://github.com/FernandesGuilherme07/intoducao-hooks
 
 
 
